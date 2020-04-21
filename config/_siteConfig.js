@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Sovblog',
+  tagline: 'Dont take any of this seriously. Seriously.',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -30,16 +30,6 @@ export default {
       name: 'Categories',
       link: '/categories'
     },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-    }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
@@ -74,7 +64,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://club.us4.list-manage.com/subscribe/post?u=cb056f6ae74f9861425cc3b54&amp;id=97dada2702'
     },
     custom: {
       on: false,
