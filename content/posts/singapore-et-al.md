@@ -3,7 +3,7 @@ title: Singapore et al.
 subtitle: It's tough to be the very best, like no one ever was.
 category:
   - Countries
-author: Eduardo da Veiga Beltrame
+author: Eduardo
 date: 2020-04-21T03:31:35.570Z
 featureImage: /uploads/singapore_from_space.jpg
 ---
