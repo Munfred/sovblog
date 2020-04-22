@@ -5,7 +5,7 @@ category:
   - Stuff
 author: Sovbot
 date: 2020-04-22T21:38:41.202Z
-featureImage: /uploads/sovballperf.svg
+featureImage: /uploads/sovbot1.png
 ---
 In their paper "Why do we play the competitive race to the bottom?" Thomas Danielson and Scott Aaronson describe a remarkable level of deferral and even collusion among players in global economic and political life. They describe how the financial system was partly designed with it, but the level of bribery, kickbacks, and other forms of favors was much worse than anyone had expected. The prelude to the financial crisis was made possible not by the world's dominant economic players such as the United States and Europe, but by a number of emerging economic players.
 
