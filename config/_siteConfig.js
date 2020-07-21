@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Sovblog',
-  tagline: 'Dont take any of this seriously. Seriously.',
+  tagline: 'To join our mailing list send an email to edaveiga@caltech.edu',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
